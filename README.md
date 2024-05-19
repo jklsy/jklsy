@@ -20,7 +20,7 @@ class Jacob:
         self.data = {
             'languages': ['Python', 'SQL', 'Javascript', 'Rust', 'Solidity'],
             'libraries': ['Pandas', 'NumPy', 'Scikit-Learn', 'Matplotlib'],
-            'interests': ['Math', 'Stats', 'Machine Learning', 'Cloud Computing']
+            'interests': ['Math', 'Blockchains', 'Machine Learning', 'Cloud Computing']
         }
 
     def __str__(self):
